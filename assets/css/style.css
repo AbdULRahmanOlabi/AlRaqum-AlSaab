@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Cairo", sans-serif;
   color: #444444;
 }
 
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Cairo", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -494,7 +494,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
+  font-family: "Cairo", sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -567,7 +567,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo", sans-serif;
 }
 
 .section-title h2::after {
@@ -585,7 +585,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo", sans-serif;
   color: #0f2f57;
 }
 
@@ -625,7 +625,7 @@ section {
 }
 
 .about .content .btn-learn-more {
-  font-family: "Raleway", sans-serif;
+  font-family: "Cairo", sans-serif;
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
@@ -679,7 +679,7 @@ section {
 .counts .count-box p {
   padding: 30px 0 0 0;
   margin: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Cairo", sans-serif;
   font-size: 14px;
 }
 
@@ -689,7 +689,7 @@ section {
   margin-top: 20px;
   color: #164682;
   font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
@@ -755,7 +755,7 @@ section {
 .why-us .accordion-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1090,7 +1090,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "Cairo", sans-serif;
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
@@ -1402,7 +1402,7 @@ section {
   font-size: 46px;
   color: #0b2341;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Cairo", sans-serif;
   margin-bottom: 25px;
 }
 
@@ -1522,7 +1522,7 @@ section {
   line-height: 26px;
   font-weight: 500;
   margin: 0 0 10px 28px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo", sans-serif;
 }
 
 .faq .faq-item p {
@@ -1729,7 +1729,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Cairo", sans-serif;
 }
 
 #footer .footer-top .social-links a {
