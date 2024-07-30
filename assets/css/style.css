@@ -1442,7 +1442,7 @@ section {
   text-decoration: line-through;
 }
 
-.pricing .get-started-btn {
+/* .pricing .get-started-btn {
   display: inline-block;
   padding: 10px 40px 11px 40px;
   border-radius: 4px;
@@ -1453,6 +1453,26 @@ section {
   transition: 0.3s;
   border: 2px solid #e3bf6f;
   background: #fff;
+} */
+
+.box img.product-image {
+  width: 350px;
+  height: 250px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.pricing .get-started-btn {
+  display: inline-block;
+  padding: 10px 40px 11px 40px;
+  border-radius: 4px;
+  color: #fff;
+  transition: none;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.3s;
+  border: #e3bf6f;
+  background: #e3bf6f;
 }
 
 .pricing .get-started-btn:hover {
